@@ -1,0 +1,10 @@
+{
+    "name": "Titan_Class_Meltdown",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/VELD-Dev/LC_SN2FM-MusicReplacement",
+    "description": "Replaces Facility Meltdown music with Subnautica 2 \"Titan-Class Biosignatures\" by Ben Prunty.",
+    "dependencies": [
+        "loaforc-loaforcsSoundAPI-2.0.11",
+        "loaforc-FacilityMeltdown-2.7.5"
+    ]
+}

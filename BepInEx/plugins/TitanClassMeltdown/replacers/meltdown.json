@@ -1,0 +1,12 @@
+{
+    "replacements": [
+        {
+            "matches": "#FacilityMeltdown:music",
+            "sounds": [
+                {
+                    "sound": "titan-class-biosignatures-cropped.ogg"
+                }
+            ]
+        }
+    ]
+}
